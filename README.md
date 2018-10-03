@@ -13,5 +13,8 @@ For <b>standalone</b> projects it looks for all the projects in %WORKING_DIR% di
 
 Upn double clicking a project name from the list, Project name field gets populated with the name. And the list on the lower left shows the file list. The '+' button can be used to add new src files.
 
+![image](https://user-images.githubusercontent.com/20777854/46435038-04c53680-c773-11e8-8548-65436a654ebb.png)
+
+The lower-left list can also open any file in notepad when double clicked. So 'notepad' is your default editor here.
 
 
