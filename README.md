@@ -8,6 +8,10 @@ Here you have two project options to choose from 'web' and 'standalone'
 
 ![image](https://user-images.githubusercontent.com/20777854/46434737-18bc6880-c772-11e8-974d-b8bf47f00ee3.png)
 
-For <b>web</b> projects it looks for all the projects in %CATALINA_HOME%/webapps directory having 'WEB-INF' folder in them
+For <b>web</b> projects it looks for all the projects in %CATALINA_HOME%/webapps directory having 'WEB-INF' folder in them<br>
 For <b>standalone</b> projects it looks for all the projects in %WORKING_DIR% directory having 'src/main/java' folder in them
+
+Upn double clicking a project name from the list, Project name field gets populated with the name. And the list on the lower left shows the file list. The '+' button can be used to add new src files.
+
+
 
